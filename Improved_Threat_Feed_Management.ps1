@@ -10,7 +10,7 @@
 
 .NOTES
     File Name      : Improved_Threat_Feed_Management.ps1
-    Author         : Frank Gravato (Lookout-SE)
+    Author         : Frank Gravato (Lookout-SE) frank.gravato@lookout.com
     Prerequisite   : PowerShell 5.1 or later
     
 .EXAMPLE
